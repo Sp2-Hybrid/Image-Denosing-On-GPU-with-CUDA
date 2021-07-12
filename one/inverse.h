@@ -1,0 +1,3 @@
+
+
+int inverse(float *a);

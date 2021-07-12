@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/new/picture">
+    <file>beauty2.jpg</file>
+    <file>beihang.jpg</file>
+    <file>4.png</file>
+    <file>v-home-ico-img.png</file>
+    <file>毛玻璃背景.jpg</file>
+  </qresource>
+</RCC>
